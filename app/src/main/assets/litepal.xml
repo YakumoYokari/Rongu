@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+    <dbname value="Rongu2"></dbname>
+    <version value="1"></version>
+    <list>
+        <mapping class="cn.altira.android.rongu2.pojo.User"></mapping>
+        <mapping class="cn.altira.android.rongu2.pojo.FriendList"></mapping>
+        <mapping class="cn.altira.android.rongu2.pojo.UserMessage"></mapping>
+        <mapping class="cn.altira.android.rongu2.pojo.FriendRequest"></mapping>
+    </list>
+</litepal>
